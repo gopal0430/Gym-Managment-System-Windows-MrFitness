@@ -27,7 +27,7 @@ namespace Gym.Desktop.Components.Clients
             lbDob.Content = client.Date_of_birth;
             lbGender.Content = client.IsMale;
             lbPhoneNumber.Content = client.PhoneNumber;
-            lbPSN.Content = client.PassportSerialNumber;
+            lbPSN.Content = client.AadharSerialNumber;
             Client = client;
         }
 

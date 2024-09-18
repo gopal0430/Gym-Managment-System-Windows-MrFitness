@@ -37,7 +37,7 @@ namespace Gym.Desktop.Windows.Clients
             string imagePath = client.ImagePath;
             ImbBImage.ImageSource = new BitmapImage(new Uri(imagePath, UriKind.Relative));
             tbEmail.Text = client.Email;
-            tbPassportSerialNumber.Text = client.PassportSerialNumber;
+            tbAadharSerialNumber.Text = client.AadharSerialNumber;
             dtpDateOfBirth.Text = client.Date_of_birth.ToString();
             string str = client.PhoneNumber;
             tbPhoneNumber.Text = str.Substring(4);
@@ -125,7 +125,7 @@ namespace Gym.Desktop.Windows.Clients
             client.Email = tbEmail.Text;
             client.Description = new TextRange(rbDescription.Document.ContentStart, rbDescription.Document.ContentEnd).Text;
             client.PhoneNumber = lbPhoneTemp.Content + tbPhoneNumber.Text;
-            client.PassportSerialNumber = tbPassportSerialNumber.Text;
+            client.AadharSerialNumber = tbAadharSerialNumber.Text;
 
             // Image Path
             string imagePath = ImbBImage.ImageSource.ToString();

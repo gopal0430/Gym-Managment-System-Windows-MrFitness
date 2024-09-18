@@ -246,7 +246,7 @@
                                         <Border VerticalAlignment="Center"
                                                 BorderThickness="0 0 1 0"
                                                 BorderBrush="Gray">
-                                            <Label Content="+998"
+                                            <Label Content="+91"
                                                    x:Name="lbPhoneTemp"
                                                    Margin="10 0 0 0"
                                                    Width="55"
@@ -281,13 +281,13 @@
                 <!--Passport Serial Number-->
                 <StackPanel Grid.Column="0">
 
-                    <Label Content="Passport Serial Number"
+                    <Label Content="Aadhar Card Number"
                                        Style="{DynamicResource TitleLabel}"/>
                     <Border Background="{DynamicResource PrimaryTextBoxColor}"
                                         Height="40">
                         <!--Passport Serial Number TextBox-->
-                        <TextBox x:Name="tbPassportSerialNumber"
-                                 MaxLength="9"
+                        <TextBox x:Name="tbAadharSerialNumber"
+                                 MaxLength="12"
                                  VerticalAlignment="Center"
                                  Padding="5"
                                  FontSize="16"

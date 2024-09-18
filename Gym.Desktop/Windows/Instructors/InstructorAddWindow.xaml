@@ -247,7 +247,7 @@
                                         <Border VerticalAlignment="Center"
                                                 BorderThickness="0 0 1 0"
                                                 BorderBrush="Gray">
-                                            <Label Content="+998"
+                                            <Label Content="+91"
                                                    x:Name="lbPhoneTemp"
                                                    Margin="10 0 0 0"
                                                    Width="55"

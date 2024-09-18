@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\windows\\members\\memberaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\windows\\members\\memberaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\windows\\instructors\\instructorupdatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\windows\\instructors\\instructorupdatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\windows\\instructors\\instructoraddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\windows\\instructors\\instructoraddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\windows\\instructors\\instructoraddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\windows\\instructors\\instructoraddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\windows\\clients\\clientupdatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\windows\\clients\\clientupdatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\entities\\clients\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\entities\\clients\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\windows\\clients\\clientupdatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\windows\\clients\\clientupdatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\obj\\debug\\net7.0-windows\\windows\\clients\\clientupdatewindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\obj\\debug\\net7.0-windows\\windows\\clients\\clientupdatewindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\windows\\clients\\clientaddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\windows\\clients\\clientaddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\windows\\clients\\clientaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\windows\\clients\\clientaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\repositories\\clients\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\repositories\\clients\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|c:\\users\\krish\\source\\repos\\gym-managment-system\\gym.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC9B585A-6C39-403F-8343-42F3D9D0FA4B}|Gym.Desktop\\Gym.Desktop.csproj|solutionrelative:gym.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberAddWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Members\\MemberAddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Windows\\Members\\MemberAddWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Members\\MemberAddWindow.xaml.cs",
+              "RelativeToolTip": "Gym.Desktop\\Windows\\Members\\MemberAddWindow.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAA4wGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:53:10.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorUpdateWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Instructors\\InstructorUpdateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Windows\\Instructors\\InstructorUpdateWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Instructors\\InstructorUpdateWindow.xaml.cs",
+              "RelativeToolTip": "Gym.Desktop\\Windows\\Instructors\\InstructorUpdateWindow.xaml.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAYwHcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:51:23.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstructorAddWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Instructors\\InstructorAddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Windows\\Instructors\\InstructorAddWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Instructors\\InstructorAddWindow.xaml.cs",
+              "RelativeToolTip": "Gym.Desktop\\Windows\\Instructors\\InstructorAddWindow.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwF8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:43:30.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructorAddWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Instructors\\InstructorAddWindow.xaml",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Windows\\Instructors\\InstructorAddWindow.xaml",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Instructors\\InstructorAddWindow.xaml*",
+              "RelativeToolTip": "Gym.Desktop\\Windows\\Instructors\\InstructorAddWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T23:41:33.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientUpdateWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\obj\\Debug\\net7.0-windows\\Windows\\Clients\\ClientUpdateWindow.g.i.cs",
+              "RelativeDocumentMoniker": "Gym.Desktop\\obj\\Debug\\net7.0-windows\\Windows\\Clients\\ClientUpdateWindow.g.i.cs",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\obj\\Debug\\net7.0-windows\\Windows\\Clients\\ClientUpdateWindow.g.i.cs",
+              "RelativeToolTip": "Gym.Desktop\\obj\\Debug\\net7.0-windows\\Windows\\Clients\\ClientUpdateWindow.g.i.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAnwJYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:22:59.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientUpdateWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Clients\\ClientUpdateWindow.xaml",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Windows\\Clients\\ClientUpdateWindow.xaml",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Clients\\ClientUpdateWindow.xaml",
+              "RelativeToolTip": "Gym.Desktop\\Windows\\Clients\\ClientUpdateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T23:17:35.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Entities\\Clients\\Client.cs",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Entities\\Clients\\Client.cs",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Entities\\Clients\\Client.cs",
+              "RelativeToolTip": "Gym.Desktop\\Entities\\Clients\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:06:27.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientUpdateWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Clients\\ClientUpdateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Windows\\Clients\\ClientUpdateWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Clients\\ClientUpdateWindow.xaml.cs",
+              "RelativeToolTip": "Gym.Desktop\\Windows\\Clients\\ClientUpdateWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwH8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:58:38.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientAddWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Clients\\ClientAddWindow.xaml",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Windows\\Clients\\ClientAddWindow.xaml",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Clients\\ClientAddWindow.xaml",
+              "RelativeToolTip": "Gym.Desktop\\Windows\\Clients\\ClientAddWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T22:47:40.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Windows\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\LoginWindow.xaml",
+              "RelativeToolTip": "Gym.Desktop\\Windows\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T22:46:36.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Gym.Desktop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\MainWindow.xaml",
+              "RelativeToolTip": "Gym.Desktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T19:47:03.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Repositories\\Clients\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Repositories\\Clients\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Repositories\\Clients\\ClientRepository.cs",
+              "RelativeToolTip": "Gym.Desktop\\Repositories\\Clients\\ClientRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T01:15:44.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientAddWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Clients\\ClientAddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gym.Desktop\\Windows\\Clients\\ClientAddWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Windows\\Clients\\ClientAddWindow.xaml.cs",
+              "RelativeToolTip": "Gym.Desktop\\Windows\\Clients\\ClientAddWindow.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowGcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T01:12:22.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

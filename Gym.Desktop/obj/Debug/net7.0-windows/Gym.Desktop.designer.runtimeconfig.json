@@ -12,10 +12,12 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Hp Victus\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Hp Victus\\.nuget\\packages"
+      "C:\\Users\\krish\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\krish\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }
   }

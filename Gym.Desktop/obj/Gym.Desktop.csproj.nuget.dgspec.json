@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Area\\Programming\\Bootcamp Result\\1st - 2nd  months (C# & WinForms & WPF)\\Gym.Desktop\\Gym.Desktop\\Gym.Desktop.csproj": {}
+    "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Gym.Desktop.csproj": {}
   },
   "projects": {
-    "D:\\My Area\\Programming\\Bootcamp Result\\1st - 2nd  months (C# & WinForms & WPF)\\Gym.Desktop\\Gym.Desktop\\Gym.Desktop.csproj": {
+    "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Gym.Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Area\\Programming\\Bootcamp Result\\1st - 2nd  months (C# & WinForms & WPF)\\Gym.Desktop\\Gym.Desktop\\Gym.Desktop.csproj",
+        "projectUniqueName": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Gym.Desktop.csproj",
         "projectName": "Gym.Desktop",
-        "projectPath": "D:\\My Area\\Programming\\Bootcamp Result\\1st - 2nd  months (C# & WinForms & WPF)\\Gym.Desktop\\Gym.Desktop\\Gym.Desktop.csproj",
-        "packagesPath": "C:\\Users\\Hp Victus\\.nuget\\packages\\",
-        "outputPath": "D:\\My Area\\Programming\\Bootcamp Result\\1st - 2nd  months (C# & WinForms & WPF)\\Gym.Desktop\\Gym.Desktop\\obj\\",
+        "projectPath": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\Gym.Desktop.csproj",
+        "packagesPath": "C:\\Users\\krish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krish\\source\\repos\\Gym-Managment-System\\Gym.Desktop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Hp Victus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -76,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

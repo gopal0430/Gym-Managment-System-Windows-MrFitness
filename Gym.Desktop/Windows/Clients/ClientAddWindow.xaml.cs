@@ -101,7 +101,7 @@ namespace Gym.Desktop.Windows.Clients
             client.Email = tbEmail.Text;
             client.Description = new TextRange(rbDescription.Document.ContentStart, rbDescription.Document.ContentEnd).Text;
             client.PhoneNumber = lbPhoneTemp.Content + tbPhoneNumber.Text;
-            client.PassportSerialNumber = tbPassportSerialNumber.Text;
+            client.AadharSerialNumber = tbAadharSerialNumber.Text;
 
             // Image Path
             string imagePath = ImbBImage.ImageSource.ToString();

@@ -286,7 +286,7 @@
                     <Border Background="{DynamicResource PrimaryTextBoxColor}"
                                         Height="40">
                         <!--Passport Serial Number TextBox-->
-                        <TextBox x:Name="tbPassportSerialNumber"
+                        <TextBox x:Name="tbAadharSerialNumber"
                                  MaxLength="9"
                                  VerticalAlignment="Center"
                                  Padding="5"

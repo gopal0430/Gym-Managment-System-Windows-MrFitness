@@ -30,7 +30,7 @@ public class ClientRepository : BaseRepository, IClientRepository
                 command.Parameters.AddWithValue("is_male", obj.IsMale);
                 command.Parameters.AddWithValue("email", obj.Email);
                 command.Parameters.AddWithValue("phone_number", obj.PhoneNumber);
-                command.Parameters.AddWithValue("password_serial_number", obj.PassportSerialNumber);
+                command.Parameters.AddWithValue("password_serial_number", obj.AadharSerialNumber);
                 command.Parameters.AddWithValue("image_path", obj.ImagePath);
                 command.Parameters.AddWithValue("description", obj.Description);
                 command.Parameters.AddWithValue("created_at", obj.CreatedAt);
@@ -95,7 +95,7 @@ public class ClientRepository : BaseRepository, IClientRepository
                         client.IsMale = reader.GetBoolean(4);
                         client.Email = reader.GetString(5);
                         client.PhoneNumber = reader.GetString(6);
-                        client.PassportSerialNumber = reader.GetString(7);
+                        client.AadharSerialNumber = reader.GetString(7);
                         client.ImagePath = reader.GetString(8);
                         client.Description = reader.GetString(9);
                         client.CreatedAt = reader.GetDateTime(10);
@@ -137,7 +137,7 @@ public class ClientRepository : BaseRepository, IClientRepository
                         client.IsMale = reader.GetBoolean(4);
                         client.Email = reader.GetString(5);
                         client.PhoneNumber = reader.GetString(6);
-                        client.PassportSerialNumber = reader.GetString(7);
+                        client.AadharSerialNumber = reader.GetString(7);
                         client.ImagePath = reader.GetString(8);
                         client.Description = reader.GetString(9);
                         client.CreatedAt = reader.GetDateTime(10);
@@ -175,7 +175,7 @@ public class ClientRepository : BaseRepository, IClientRepository
                 command.Parameters.AddWithValue("is_male", editedObj.IsMale);
                 command.Parameters.AddWithValue("email", editedObj.Email);
                 command.Parameters.AddWithValue("phone_number", editedObj.PhoneNumber);
-                command.Parameters.AddWithValue("password_serial_number", editedObj.PassportSerialNumber);
+                command.Parameters.AddWithValue("password_serial_number", editedObj.AadharSerialNumber);
                 command.Parameters.AddWithValue("image_path", editedObj.ImagePath);
                 command.Parameters.AddWithValue("description", editedObj.Description);
                 command.Parameters.AddWithValue("created_at", editedObj.CreatedAt);

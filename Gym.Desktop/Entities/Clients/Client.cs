@@ -4,5 +4,5 @@ namespace Gym.Desktop.Entities.Clients;
 
 public sealed class Client : Human
 {
-    public string PassportSerialNumber { get; set; } = String.Empty;
+    public string AadharSerialNumber { get; set; } = String.Empty;
 }

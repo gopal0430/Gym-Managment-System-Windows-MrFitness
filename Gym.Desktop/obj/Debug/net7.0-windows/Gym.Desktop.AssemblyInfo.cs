@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gym.Desktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c29aeff80870545213bb95ff63ee8c238bc73ed0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gym.Desktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gym.Desktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
